@@ -1,0 +1,20 @@
+{
+    "short_name": "Exstal Arena",
+    "name": "Simple but Epic Game Play, Exstal Make a Brainstorm!",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo294.png",
+            "type": "image/png",
+            "sizes": "294x294"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
